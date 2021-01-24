@@ -1,0 +1,38 @@
+﻿  源.cpp
+D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\源.cpp(67,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\源.cpp(225,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\源.cpp(228,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\源.cpp(233,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\源.cpp(287,2): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+graphics19.lib(color.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(color.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(egecontrolbase.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(egegapi.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(graphics.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(graphics.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(image.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(image.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(logo.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(logo.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(adler32.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(adler32.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(compress.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(compress.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(crc32.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(crc32.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(deflate.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(deflate.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(inffast.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(inffast.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(inflate.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(inflate.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(inftrees.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(png.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(png.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngerror.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngget.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngget.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngmem.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngread.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngread.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngrio.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngrtran.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngrutil.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngset.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngset.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngtrans.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngwio.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngwrite.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngwtran.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(pngwutil.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(trees.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(trees.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(uncompr.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics19.lib(zutil.obj) : warning LNK4099: 未找到 PDB“graphics19.pdb”(使用“graphics19.lib(zutil.obj)”或在“D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\graphics19.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  贪吃蛇.vcxproj -> D:\下载\基于ege图形库的炫酷飞机大战源代码及图片素材\贪吃蛇\Debug\贪吃蛇.exe
